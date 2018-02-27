@@ -4,9 +4,8 @@ Solution to Python Challenge Updated.
 
 ## Input
 
-To build the image locally:
+Input to the program is given in the form of matrix put into the below mentioned files.
 
-```console
 recipeW : Has the recipe in matrix format
 workbenchW : Has the Workbench in matrix format
 ```
